@@ -11,6 +11,11 @@ public class God
         Species = species;
     }
 
+        public override string ToString()
+    {
+        return $"Name: {Name}, Power Level: {Reality}, Type: {Species}";
+    }
+
 }
 
 
@@ -27,6 +32,8 @@ public class Model
            new God("Nyalathotep", "5", "Outer God"),
            new God("Cthulhu", "8", "Great old one")
         }; 
+
+        
      }
 
 }
