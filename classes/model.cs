@@ -16,7 +16,7 @@ public class God
 
 public class Model
 {
-     private List<God> gods;
+     public List<God> gods;
 
      public Model()
      {
