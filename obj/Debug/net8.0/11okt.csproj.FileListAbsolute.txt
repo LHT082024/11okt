@@ -13,3 +13,11 @@ C:\Users\lucie\documents\intro-htmlcss\canvasoppgaver\11okt\obj\Debug\net8.0\ref
 C:\Users\lucie\documents\intro-htmlcss\canvasoppgaver\11okt\obj\Debug\net8.0\11okt.pdb
 C:\Users\lucie\documents\intro-htmlcss\canvasoppgaver\11okt\obj\Debug\net8.0\11okt.genruntimeconfig.cache
 C:\Users\lucie\documents\intro-htmlcss\canvasoppgaver\11okt\obj\Debug\net8.0\ref\11okt.dll
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\11okt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\11okt.AssemblyInfoInputs.cache
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\11okt.AssemblyInfo.cs
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\11okt.csproj.CoreCompileInputs.cache
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\11okt.sourcelink.json
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\11okt.dll
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\refint\11okt.dll
+C:\Users\lucie\documents\intro-htmlcss\projects\canvasOppgaver\11okt\obj\Debug\net8.0\11okt.pdb
