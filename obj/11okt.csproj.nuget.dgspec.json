@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucie\\documents\\intro-htmlcss\\canvasoppgaver\\11okt\\11okt.csproj": {}
+    "C:\\Users\\lucie\\documents\\intro-htmlcss\\projects\\canvasOppgaver\\11okt\\11okt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucie\\documents\\intro-htmlcss\\canvasoppgaver\\11okt\\11okt.csproj": {
+    "C:\\Users\\lucie\\documents\\intro-htmlcss\\projects\\canvasOppgaver\\11okt\\11okt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucie\\documents\\intro-htmlcss\\canvasoppgaver\\11okt\\11okt.csproj",
+        "projectUniqueName": "C:\\Users\\lucie\\documents\\intro-htmlcss\\projects\\canvasOppgaver\\11okt\\11okt.csproj",
         "projectName": "11okt",
-        "projectPath": "C:\\Users\\lucie\\documents\\intro-htmlcss\\canvasoppgaver\\11okt\\11okt.csproj",
+        "projectPath": "C:\\Users\\lucie\\documents\\intro-htmlcss\\projects\\canvasOppgaver\\11okt\\11okt.csproj",
         "packagesPath": "C:\\Users\\lucie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucie\\documents\\intro-htmlcss\\canvasoppgaver\\11okt\\obj\\",
+        "outputPath": "C:\\Users\\lucie\\documents\\intro-htmlcss\\projects\\canvasOppgaver\\11okt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucie\\AppData\\Roaming\\NuGet\\NuGet.Config"
